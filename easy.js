@@ -35,12 +35,42 @@ import { letterCapitalize } from "./easy/letterCapitalize.js";
 
 console.log(letterCapitalize("merhaba benim adım kadircan kelebek"))
 
+import { simpleSymbols } from "./easy/simpleSymbols.js";
+
+console.log(simpleSymbols("++d+===+c++==a"));
 
 
+import { abCheck } from "./easy/abCheck.js";
 
+console.log(abCheck('lane barrowed'));
 
+import { exOh } from "./easy/exOh.js";
 
+console.log(exOh("xoxxooxoxoxoo"));
 
+import { timeConvert } from "./easy/timeConvert.js";
+
+console.log(timeConvert(97));
+
+import { alphabetSoup } from "./easy/alphabetSoup.js";
+
+console.log(alphabetSoup("kadircan"));
+
+import { wordCount } from "./easy/wordCount.js";
+
+console.log(wordCount(" Bugün hava güneşli ama yeterince değil "));
+
+import { arithGeo } from "./easy/arithGeo.js";
+
+console.log(arithGeo([2, 4, 8, 16, 32]));
+
+import { vowelCount } from "./easy/vovelCount.js";
+
+console.log(vowelCount("All cows eat grass"));
+
+import { isPalindrome } from "./easy/isPalindrome.js";
+
+console.log(isPalindrome("raceca R"));
 
 
 
