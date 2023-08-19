@@ -72,5 +72,10 @@ import { isPalindrome } from "./easy/isPalindrome.js";
 
 console.log(isPalindrome("raceca R"));
 
+import { arrayAddition } from "./easy/arrayEdition.js";
 
+console.log(arrayAddition([4, 6, 23, 10, 1, 3]));
 
+import { secondGreatLow } from "./easy/secondGreatLow.js";
+
+console.log(secondGreatLow([7, 7, 98, 12, 106]));

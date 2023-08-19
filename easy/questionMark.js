@@ -11,7 +11,6 @@ export const questionMark = (str) => {
 
     const arr = newStr.split("")
 
-    console.log(arr);
     // değişkenleri tanımla sums,sum,iterator
     let sums = []
     let sum = 0
@@ -28,7 +27,6 @@ export const questionMark = (str) => {
         iterator += 1
     })
 
-    console.log(sums);
 
     // sums içerisinde 10 değeri varsa true yoksa false
 
