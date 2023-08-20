@@ -79,3 +79,9 @@ console.log(arrayAddition([4, 6, 23, 10, 1, 3]));
 import { secondGreatLow } from "./easy/secondGreatLow.js";
 
 console.log(secondGreatLow([7, 7, 98, 12, 106]));
+
+import { letterCount } from "./easy/letterCount.js";
+
+// console.log("%c" + letterCount("Today, is the greatest day ever!"), "font-size:25px");
+
+console.log(letterCount("Today, is the greatest day ever!"));
