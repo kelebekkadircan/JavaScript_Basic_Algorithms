@@ -33,8 +33,8 @@ export const letterCount = (str) => {
 
     let maxValue = Math.max(...maxFrequencies)
 
-    console.log(maxValue);
-    console.log(maxFrequencies);
+    // console.log(maxValue);
+    // console.log(maxFrequencies);
 
 
     return maxValue < 2 ? -1 : (arr[maxFrequencies.indexOf(maxValue)] ? arr[maxFrequencies.indexOf(maxValue)] : -1)

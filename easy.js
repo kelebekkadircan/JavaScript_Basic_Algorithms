@@ -85,3 +85,16 @@ import { letterCount } from "./easy/letterCount.js";
 // console.log("%c" + letterCount("Today, is the greatest day ever!"), "font-size:25px");
 
 console.log(letterCount("Today, is the greatest day ever!"));
+
+import { divisionStringified } from "./easy/divisionStringified.js";
+
+console.log(divisionStringified(123456789, 10000));
+
+import { changingSequence } from "./easy/changingSequences.js";
+
+// console.log(changingSequence([1, 2, 4, 6, 4, 3, 1]));
+
+import { countingMinutes } from "./easy/countingMinutes.js";
+
+console.log(countingMinutes("10:00am-1:10pm"));
+
