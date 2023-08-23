@@ -98,3 +98,6 @@ import { countingMinutes } from "./easy/countingMinutes.js";
 
 console.log(countingMinutes("10:00am-1:10pm"));
 
+import { meanMode } from "./easy/meanMode.js";
+
+console.log(meanMode([5, 3, 3, 3, 3, 1]));
