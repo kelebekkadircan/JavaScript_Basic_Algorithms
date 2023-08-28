@@ -101,3 +101,7 @@ console.log(countingMinutes("10:00am-1:10pm"));
 import { meanMode } from "./easy/meanMode.js";
 
 console.log(meanMode([5, 3, 3, 3, 3, 1]));
+
+import { dashInsert } from "./easy/dashInsert.js";
+
+console.log(dashInsert("454793c5734juf"));
