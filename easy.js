@@ -105,3 +105,7 @@ console.log(meanMode([5, 3, 3, 3, 3, 1]));
 import { dashInsert } from "./easy/dashInsert.js";
 
 console.log(dashInsert("454793c5734juf"));
+
+import { numberAddition } from "./easy/numberAddition.js";
+
+console.log(numberAddition("88Hello 3World!"));
