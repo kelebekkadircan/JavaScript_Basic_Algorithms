@@ -109,3 +109,23 @@ console.log(dashInsert("454793c5734juf"));
 import { numberAddition } from "./easy/numberAddition.js";
 
 console.log(numberAddition("88Hello 3World!"));
+
+import { swapCase } from "./easy/swapCase.js";
+
+console.log(swapCase("helLo WorLddD"));
+
+import { thirdGreatest } from "./easy/thirdGreatest.js";
+
+console.log(thirdGreatest(["hello", "world", "before", "all"]));
+
+import { additivePersistence } from "./easy/additivePersistence.js";
+
+console.log(additivePersistence(2718));
+
+import { multiplicativePersistance } from "./easy/multiplicativePersistence.js";
+
+console.log(multiplicativePersistance(39));
+
+import { offLineMin } from "./easy/offLineMin.js";
+
+console.log(offLineMin(["5", "4", "6", "E", "1", "7", "E", "E", "3", "2"]));
