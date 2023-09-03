@@ -129,3 +129,13 @@ console.log(multiplicativePersistance(39));
 import { offLineMin } from "./easy/offLineMin.js";
 
 console.log(offLineMin(["5", "4", "6", "E", "1", "7", "E", "E", "3", "2"]));
+
+import { changeSeq } from "./easy/changSeq.js";
+
+console.log(changeSeq([1, 2, 4, 6, 4, 3, 1]));
+
+import { overlapRanges } from "./easy/overlapRanges.js";
+
+console.log(overlapRanges([4, 10, 2, 6, 3]));
+
+
