@@ -138,4 +138,19 @@ import { overlapRanges } from "./easy/overlapRanges.js";
 
 console.log(overlapRanges([4, 10, 2, 6, 3]));
 
+import { superIncreasing } from "./easy/superIncreasing.js";
+
+console.log(superIncreasing([1, 3, 6, 13, 54]));
+
+import { hammingDistance } from "./easy/hammingDistance.js";
+
+console.log(hammingDistance("karolin", "kathrin"));
+
+import { bitWise } from "./easy/bitWise.js";
+
+console.log(bitWise(["1100", "0111"]));
+
+import { waveSorting } from "./easy/waveSorting.js";
+
+console.log(waveSorting([3, 6, 5, 10, 20, 7, 30]));
 
