@@ -154,3 +154,15 @@ import { waveSorting } from "./easy/waveSorting.js";
 
 console.log(waveSorting([3, 6, 5, 10, 20, 7, 30]));
 
+import { largestPair } from "./easy/largestPair.js";
+
+console.log(largestPair(4759472)); // 59472
+
+import { binaryReversal } from "./easy/binaryReversal.js";
+
+console.log(binaryReversal("47"));
+
+import { firstNonRepeating } from "./easy/firstNonRepeating.js";
+
+console.log(firstNonRepeating("strEss"));
+
