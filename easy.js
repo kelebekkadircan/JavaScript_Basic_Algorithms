@@ -166,3 +166,24 @@ import { firstNonRepeating } from "./easy/firstNonRepeating.js";
 
 console.log(firstNonRepeating("strEss"));
 
+import { twoSum } from "./easy/twoSum.js";
+
+console.log(twoSum([2, 7, 11, 15], 9));
+
+import { powerSetCount } from "./easy/powerSetCount.js";
+
+console.log(powerSetCount([1, 2, 3]));
+
+import { palindromeTwo } from "./easy/palindromeTwo.js";
+
+console.log(palindromeTwo("Anne I vote more cars race Rome-to-Vienna"));
+
+import { productDigit } from "./easy/productDigit.js";
+
+console.log(productDigit(24));
+
+import { decimalToRoman } from "./easy/decimalToRoman.js";
+
+console.log(decimalToRoman(3999));
+
+
