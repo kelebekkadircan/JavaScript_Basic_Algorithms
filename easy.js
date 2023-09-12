@@ -186,4 +186,10 @@ import { decimalToRoman } from "./easy/decimalToRoman.js";
 
 console.log(decimalToRoman(3999));
 
+import { twoSum2 } from "./easy/twoSum2.js";
 
+console.log(twoSum2([1, 3, 4, 11, 7, 10, 5], 9));
+
+import { palindromeCreator } from "./easy/palindromeCreator.js";
+
+console.log(palindromeCreator("abjchba"));
