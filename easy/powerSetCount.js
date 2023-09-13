@@ -8,7 +8,7 @@ export const powerSetCount = (arr = []) => {
     for (let i = 0; i < numberOfSubset; i++) {
         let tempBinary = Number(i).toString(2);
         let currentBinary = "0".repeat(arr.length - tempBinary.length) + tempBinary
-        console.log(currentBinary);
+        // console.log(currentBinary);
 
         let tempValue = ""
 

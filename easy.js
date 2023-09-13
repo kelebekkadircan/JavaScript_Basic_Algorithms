@@ -193,3 +193,7 @@ console.log(twoSum2([1, 3, 4, 11, 7, 10, 5], 9));
 import { palindromeCreator } from "./easy/palindromeCreator.js";
 
 console.log(palindromeCreator("abjchba"));
+
+import { arrayMatching } from "./easy/arrayMatching.js";
+
+console.log(arrayMatching(["[1,2,5,6,16]", "[5,2,8,11,9,12,14]"]));
