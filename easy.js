@@ -197,3 +197,11 @@ console.log(palindromeCreator("abjchba"));
 import { arrayMatching } from "./easy/arrayMatching.js";
 
 console.log(arrayMatching(["[1,2,5,6,16]", "[5,2,8,11,9,12,14]"]));
+
+import { threeSum } from "./easy/threeSum.js";
+
+console.log(threeSum([8, 2, 1, 4, 10, 5, -1, -1], 8));
+
+import { pascalTriangel } from "./easy/pascalTriangel.js";
+
+console.log(pascalTriangel(7));
