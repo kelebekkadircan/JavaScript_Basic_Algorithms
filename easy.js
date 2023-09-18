@@ -205,3 +205,11 @@ console.log(threeSum([8, 2, 1, 4, 10, 5, -1, -1], 8));
 import { pascalTriangel } from "./easy/pascalTriangel.js";
 
 console.log(pascalTriangel(7));
+
+import { twosumm } from "./easy/twosumm.js";
+
+console.log(twosumm([2, 7, 11, 15]));
+
+import { timeDifference } from "./easy/timeDifference.js";
+
+console.log(timeDifference("14:00", "16:00"));
