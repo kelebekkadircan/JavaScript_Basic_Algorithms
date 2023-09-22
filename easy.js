@@ -213,3 +213,15 @@ console.log(twosumm([2, 7, 11, 15]));
 import { timeDifference } from "./easy/timeDifference.js";
 
 console.log(timeDifference("14:00", "16:00"));
+
+import { vowelSquare } from "./easy/vowelSquare.js";
+
+console.log(vowelSquare(["abei", "bcik", "cdkr"]));
+
+import { closestEnemy } from "./easy/closestEnemy.js";
+
+console.log(closestEnemy([0, 0, 1, 0, 0, 2, 0, 2]));
+
+import { numberStream } from "./easy/numberStream.js";
+
+console.log(numberStream("6539923335"));
