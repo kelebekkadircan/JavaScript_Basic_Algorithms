@@ -25,7 +25,7 @@ export const numberStream = (str) => {
             result = true;
         }
         if (arr[j].length === Number(arr[j][0])) {
-            console.log(Number(arr[j][0]) + "-" + arr[j]);
+            // console.log(Number(arr[j][0]) + "-" + arr[j]);
         }
     }
 

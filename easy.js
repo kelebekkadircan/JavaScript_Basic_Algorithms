@@ -225,3 +225,11 @@ console.log(closestEnemy([0, 0, 1, 0, 0, 2, 0, 2]));
 import { numberStream } from "./easy/numberStream.js";
 
 console.log(numberStream("6539923335"));
+
+import { serialNumber } from "./easy/serialNumber.js";
+
+console.log(serialNumber("224.315.218"));
+
+import { scaleBalancing } from "./easy/scaleBalancing.js";
+
+console.log(scaleBalancing(["[5,9]", "[1,2,6,7]"]));
