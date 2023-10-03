@@ -233,3 +233,20 @@ console.log(serialNumber("224.315.218"));
 import { scaleBalancing } from "./easy/scaleBalancing.js";
 
 console.log(scaleBalancing(["[5,9]", "[1,2,6,7]"]));
+
+import { camelCase } from "./easy/camelCase.js";
+
+console.log(camelCase("Here comes the rain"));
+
+import { largestFour } from "./easy/largestFour.js";
+
+// console.log(largestFour([4, 5, -2, 3, 1, 2, 6, 6]));
+console.log(largestFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39]]));
+
+import { snakeCase } from "./easy/snakeCase.js";
+
+console.log(snakeCase("BOB loves-coding"));
+
+import { sumMultiplier } from "./easy/sumMultiplier.js";
+
+console.log(sumMultiplier([2, 5, 6, -6, 16, 2, 3, 6, 5, 3]));
