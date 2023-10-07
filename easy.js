@@ -250,3 +250,11 @@ console.log(snakeCase("BOB loves-coding"));
 import { sumMultiplier } from "./easy/sumMultiplier.js";
 
 console.log(sumMultiplier([2, 5, 6, -6, 16, 2, 3, 6, 5, 3]));
+
+import { stringMerge } from "./easy/stringMerge.js";
+
+console.log(stringMerge("abc1*kyoo"));
+
+import { oneDecrement } from "./easy/oneDecrement.js";
+
+console.log(oneDecrement(5655984));
