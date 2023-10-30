@@ -258,3 +258,7 @@ console.log(stringMerge("abc1*kyoo"));
 import { oneDecrement } from "./easy/oneDecrement.js";
 
 console.log(oneDecrement(5655984));
+
+import { mergeSort } from "./easy/mergeSort.js";
+
+console.log(mergeSort([63, 34, 25, 12, 22, 11, 90])); 
