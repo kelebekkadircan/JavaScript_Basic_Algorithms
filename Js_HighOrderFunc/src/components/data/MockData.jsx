@@ -11,3 +11,12 @@ export const companies = [
 ];
 
 export const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
+
+export const users = [
+  { name: "John", age: 34, id: 1, gender: 1 },
+  { name: "Doe", age: 23, id: 2, gender: 1 },
+  { name: "Smith", age: 45, id: 3, gender: 2 },
+  { name: "Alex", age: 23, id: 4, gender: 2 },
+  { name: "Tom", age: 23, id: 5, gender: 1 },
+  { name: "Jerry", age: 23, id: 6, gender: 1 },
+];

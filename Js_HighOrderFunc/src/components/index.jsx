@@ -1,3 +1,11 @@
 export { ForEach } from "./foreach";
 export { Filter } from "./filter";
 export { Map } from "./map";
+export { Sort } from "./sort";
+export { Reduce } from "./reduce";
+export { CallBack } from "./callBack";
+export { SetTimeOut } from "./setTimeOut";
+export { SetInterval } from "./setInterval";
+export { Every } from "./every";
+export { Some } from "./some";
+export { Find } from "./find";

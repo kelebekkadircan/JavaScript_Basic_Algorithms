@@ -8,5 +8,14 @@ export const ForEach = () => {
   companies.forEach((e) => {
     // console.log(e.name);
   });
+
+  let total = 0;
+
+  let calculate = (age) => {
+    total += age;
+  };
+  ages.forEach(calculate);
+  // console.log(total);
+
   return <div>ForEach</div>;
 };

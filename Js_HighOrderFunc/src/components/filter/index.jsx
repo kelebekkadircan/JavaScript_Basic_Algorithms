@@ -27,5 +27,6 @@ export const Filter = () => {
     (company) => company.end - company.start >= 10
   );
   //   console.log(lastedTenYears);
+
   return <div>Filter</div>;
 };
