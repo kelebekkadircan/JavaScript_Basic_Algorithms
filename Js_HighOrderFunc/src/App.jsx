@@ -11,15 +11,17 @@ import {
   Every,
   Some,
   Find,
+  Includes,
 } from "./components";
 function App() {
   //Higher order function mean :  takes a function as a parameter or returns a function as a result.
-  // SetTimeout is a higher order function
-  // array.filter is a higher order function
   // array.map is a higher order function
+  // array.filter is a higher order function
   // array.reduce is a higher order function
   // array.forEach is a higher order function
   // array.sort is a higher order function
+  // SetTimeout is a higher order function
+  // SetInterval is a higher order function
   // array.every is a higher order function
   // array.some is a higher order function
   // array.find is a higher order function
@@ -39,6 +41,7 @@ function App() {
       <Every />
       <Some />
       <Find />
+      <Includes />
     </div>
   );
 }

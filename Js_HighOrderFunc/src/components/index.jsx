@@ -9,3 +9,4 @@ export { SetInterval } from "./setInterval";
 export { Every } from "./every";
 export { Some } from "./some";
 export { Find } from "./find";
+export { Includes } from "./includes";
