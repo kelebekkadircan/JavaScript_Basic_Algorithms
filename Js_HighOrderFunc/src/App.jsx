@@ -30,14 +30,14 @@ function App() {
 
   return (
     <div>
-      <ForEach />
-      <Filter />
       <Map />
-      <Sort />
+      <Filter />
       <Reduce />
-      <CallBack />
+      <ForEach />
+      <Sort />
       {/* <SetTimeOut /> */}
       {/* <SetInterval /> */}
+      <CallBack />
       <Every />
       <Some />
       <Find />

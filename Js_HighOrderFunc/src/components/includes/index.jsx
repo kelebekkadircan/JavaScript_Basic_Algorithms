@@ -11,7 +11,7 @@ export const Includes = () => {
   });
 
   const newInclude = userNames.includes("John");
-  console.log(newInclude);
+  // console.log(newInclude);
 
   return <div>Includes</div>;
 };
