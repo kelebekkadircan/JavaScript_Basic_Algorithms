@@ -42,11 +42,7 @@ export const Filter = () => {
 
   const search = (keyword, array) =>
     array.filter((item) => item.includes(keyword));
-
-  // Define the users array
   const users = ["cat", "dog", "rabbit", "turtle"];
-
-  // Call the search function
   const tInclude = search("t", users);
 
   // console.log(tInclude); // Output: ["cat", "turtle"]
